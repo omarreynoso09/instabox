@@ -1,0 +1,46 @@
+.parent{
+
+border: 1px solid blue !important;
+padding:10px;
+display:flex;
+flex-direction: column;
+
+
+}
+
+.header{
+    border: 0px;
+    display :flex;
+    justify-content:left;
+  
+}
+
+
+.categories {
+padding-top: 100px;
+margin: 10px;
+display: flex;
+flex-direction:row;
+justify-content: flex-start;
+
+
+}
+
+.icon {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content:left;
+
+    
+    }
+
+.information {
+    padding: 10px;
+    margin: 10px;
+    flex: 2;
+    display: inline-flex;
+
+
+}
+
